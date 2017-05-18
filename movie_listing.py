@@ -25,13 +25,15 @@ ip_man = movies.Movie("Ip Man",
                     "https://youtu.be/1AJxXQ7xojE")
 
 the_lord_of_the_rings = movies.Movie("The Lord of the Rings",
-                                    "A story of brave Hobbit and his friends that fight to save MiddleEarth",
+                                    "A story of brave Hobbit and his friends that"
+                                    "fight to save MiddleEarth",
                                     "https://www.movieposter.com/posters/archive/main/105/MPW-52979",
                                     "https://youtu.be/V75dMMIW2B4")
 
 
 princess_mononoke = movies.Movie("Princess Mononoke",
-                                "A story of a prince who fights a off demons to save his village.  Who later gets corrupted and seeks out a princess to find a cure to his corruption",
+                                "A story of a prince who fights a off demons to save his village."
+                                "Who later gets corrupted and seeks out a princess to find a cure to his corruption",
                                 "http://t2.gstatic.com/images?q=tbn:ANd9GcS3ReuE3ksrdNabf0K7frhelHm-05ec4a_1mIxQUqNiRduHNrJ5",
                                 "https://youtu.be/4OiMOHRDs14")
 
